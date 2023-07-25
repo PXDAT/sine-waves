@@ -18,5 +18,7 @@ Step 4: click on file name "index" or "index.html"
 ![image](https://github.com/PXDAT/sine-waves/assets/136553197/c60df860-045e-49a0-bbab-687321681b51)
 
 ![image](https://github.com/PXDAT/sine-waves/assets/136553197/bf518dc5-cfdc-41ad-b26b-32f8895f8603)
+# Result 
+![image](https://github.com/PXDAT/sine-waves/assets/136553197/0fbfb37a-6ea5-4977-be71-3472ace661b7)
 
   
